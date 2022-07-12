@@ -31,3 +31,10 @@ Versioning control git dapat diinstall langsung dengan command dibawah ini
 ```.bash
 sudo apt -y install git
 ```
+
+## Install VLC (Multimedia)
+Installasi pemutar vidio 
+
+```.bash
+sudo apt -y install vlc
+```
