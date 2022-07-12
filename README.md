@@ -57,3 +57,11 @@ sudo apt-get update && sudo apt-get install yarn
 ```
 
 Sesuiakan version di deskripsi README.md untuk install di linux https://github.com/nodesource/distributions/blob/master/README.md
+
+## Installasi GNome Tweak Tool
+Gnome Tweak Tool ini berfungsi untuk pengaturan ulang tampilan pada layar desktop GNOME
+
+```.bash
+sudo apt-add-repository universe
+sudo apt -y install gnome-tweaks
+```
